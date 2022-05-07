@@ -121,8 +121,12 @@ curl -X GET \
  npm run dev
  ```
 
- > Test the application
+Go to http://localhost:3000/ and you should see the application page, similar to the wireframe:
+![Page view](public/result.png?raw=true "Page View")
+
+ > To test the application
  
  ```bash
  npm run test
  ```
+
